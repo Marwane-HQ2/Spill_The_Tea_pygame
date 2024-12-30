@@ -11,4 +11,4 @@ Pygame and random librairies are required.
 ## Demo 📼
 Here is a link for a video that shows the demo of this game:
 
-`https://cloud-7amik9j80-hack-club-bot.vercel.app/0spill_the_tea_2024-12-19_18-58-38.mp4"`
+`https://cloud-q7cgpf0wm-hack-club-bot.vercel.app/0spill_the_tea_2024-12-30_22-52-30.mp4`
